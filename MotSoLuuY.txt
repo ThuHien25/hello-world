@@ -1,0 +1,41 @@
+﻿8h30 -> 12h, 13h30 -> 18h
+==================================================================
+TÀI LIỆU THAM KHẢO
+- Bookmark: Google_Drive của Tuan Anh (Java, Git). 
+
+
+
+==================================================================
+
+==================================================================
+PHONG CÁCH VÀ THÁI ĐỘ LÀM VIỆC
+- Đọc và tra cứu kỹ tài liệu trước khi hỏi.
+- Khi nhận task cần xác định lại xem mình hiểu đúng ý tưởng không?
+- Tự test lỗi đến mức tốt nhất có thể.
+- Làm việc trong Team: không biết làm, im lặng gần sát deadline mới hỏi là không tốt.
+- Cách đặt câu hỏi: Tham khảo word
+==================================================================
+
+==================================================================
+ĐỊNH HƯỚNG PHÁT TRIỂN VÀ THÁI ĐỘ LÀM VIỆC
+
+CHUYÊN MÔN LẬP TRÌNH:
+	- Nên đặt tên hàm, tên biến gợi nhớ. 
+	- Cấu trúc code phải rõ ràng.
+	- Chú ý đến vấn đề bảo mật.
+	- Sử dụng cấu trúc dữ liệu hợp lí.
+	- Code ngắn gọn, dễ hiểu.
+	- Suy luận, xác định vấn đề trước khi code.
+	- Hạn chế code lại từ đầu (có rồi thì dùng thôi >0<)
+
+ĐỊNH HƯỚNG PHÁT TRIỂN (đọc và tìm hiểu)
+	- Đọc sách technical, tìm hiểu ngôn ngữ/công nghệ mới.
+	- Đọc blog lập trình: trao đổi kiến thức.
+	- Chăm sóc sức khỏe cho tốt.
+	- Đào sâu nghiên cứu.
+	- Xây dựng các mối quan hệ và tạo dựng hình ảnh.
+
+THÁI ĐỘ LÀM VIỆC
+	- Khiêm tốn, lắng nghe góp ý.
+	- Nếu xong phần công việc của mình, hãy chủ động giúp đỡ người khác.
+==================================================================
